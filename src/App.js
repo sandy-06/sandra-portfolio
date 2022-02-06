@@ -1,18 +1,19 @@
 import React, { useState } from 'react';
 import Nav from './components/Nav';
-import Homepage from './components/Homepage';
+import About from './components/About';
 import Projects from './components/Projects';
 import ContactForm from './components/Contact';
+import Footer from './components/Footer';
 
 function App() {
   const [categories] = useState([
     {
-      name: 'commercial',
-      description: 'Photos of grocery stores, food trucks, and other commercial projects',
+      name: 'About',
+      description: 'Photo of Sandra Sander with daughter',
     },
-    { name: 'portraits', description: 'Portraits of people in my life' },
-    { name: 'food', description: 'Delicious delicacies' },
-    { name: 'landscape', description: 'Fields, farmhouses, waterfalls, and the beauty of nature' },
+    { name: 'Projects', description: 'projects' },
+    { name: 'Contact', description: 'contact form' },
+    { name: 'Resume', description: 'current resume' },
   ]);
 
   const [currentCategory, setCurrentCategory] = useState(categories[0]);
@@ -31,13 +32,14 @@ function App() {
       <main>
         {!contactSelected ? (
           <>
-            <Gallery currentCategory={currentCategory}></Gallery>
-            <Homepage></Homepage>
+            {/* <Projects currentCategory={currentCategory}></Projects> */}
+            <About></About>
           </>
         ) : (
           <ContactForm></ContactForm>
         )}
       </main>
+      <Footer></Footer>
     </div>
   );
 }
