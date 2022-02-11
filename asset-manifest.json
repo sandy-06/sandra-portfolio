@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/sandra-portfolio/static/css/main.29f67fbf.css",
-    "main.js": "/sandra-portfolio/static/js/main.388e638e.js",
+    "main.js": "/sandra-portfolio/static/js/main.5e26f03d.js",
     "static/js/787.1d98b30a.chunk.js": "/sandra-portfolio/static/js/787.1d98b30a.chunk.js",
+    "static/media/resume.jpg": "/sandra-portfolio/static/media/resume.867f2843b5fb038e3ad7.jpg",
     "static/media/headerphoto1.png": "/sandra-portfolio/static/media/headerphoto1.2c482588c2bd5dd0eb77.png",
     "static/media/baby-aid.png": "/sandra-portfolio/static/media/baby-aid.98a0ca9bff268037bdee.png",
     "static/media/homepage.png": "/sandra-portfolio/static/media/homepage.e3ee0864b09b53615da9.png",
@@ -15,11 +16,11 @@
     "static/media/notetaker.png": "/sandra-portfolio/static/media/notetaker.384dd6fc85675d436a9c.png",
     "index.html": "/sandra-portfolio/index.html",
     "main.29f67fbf.css.map": "/sandra-portfolio/static/css/main.29f67fbf.css.map",
-    "main.388e638e.js.map": "/sandra-portfolio/static/js/main.388e638e.js.map",
+    "main.5e26f03d.js.map": "/sandra-portfolio/static/js/main.5e26f03d.js.map",
     "787.1d98b30a.chunk.js.map": "/sandra-portfolio/static/js/787.1d98b30a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.29f67fbf.css",
-    "static/js/main.388e638e.js"
+    "static/js/main.5e26f03d.js"
   ]
 }
