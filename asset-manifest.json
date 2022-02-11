@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/sandra-portfolio/static/css/main.29f67fbf.css",
-    "main.js": "/sandra-portfolio/static/js/main.5e26f03d.js",
+    "main.js": "/sandra-portfolio/static/js/main.411a8f44.js",
     "static/js/787.1d98b30a.chunk.js": "/sandra-portfolio/static/js/787.1d98b30a.chunk.js",
-    "static/media/resume.jpg": "/sandra-portfolio/static/media/resume.867f2843b5fb038e3ad7.jpg",
     "static/media/headerphoto1.png": "/sandra-portfolio/static/media/headerphoto1.2c482588c2bd5dd0eb77.png",
     "static/media/baby-aid.png": "/sandra-portfolio/static/media/baby-aid.98a0ca9bff268037bdee.png",
     "static/media/homepage.png": "/sandra-portfolio/static/media/homepage.e3ee0864b09b53615da9.png",
+    "static/media/sresume.jpg": "/sandra-portfolio/static/media/sresume.c3603aceeeb88c1bc317.jpg",
     "static/media/show-finder.png": "/sandra-portfolio/static/media/show-finder.7a3c288bedd914d9a885.png",
     "static/media/socialnetwork.png": "/sandra-portfolio/static/media/socialnetwork.325afba71aa9b3fcdf2d.png",
     "static/media/background -2.png": "/sandra-portfolio/static/media/background -2.f471c2f2c27b6c095a40.png",
@@ -16,11 +16,11 @@
     "static/media/notetaker.png": "/sandra-portfolio/static/media/notetaker.384dd6fc85675d436a9c.png",
     "index.html": "/sandra-portfolio/index.html",
     "main.29f67fbf.css.map": "/sandra-portfolio/static/css/main.29f67fbf.css.map",
-    "main.5e26f03d.js.map": "/sandra-portfolio/static/js/main.5e26f03d.js.map",
+    "main.411a8f44.js.map": "/sandra-portfolio/static/js/main.411a8f44.js.map",
     "787.1d98b30a.chunk.js.map": "/sandra-portfolio/static/js/787.1d98b30a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.29f67fbf.css",
-    "static/js/main.5e26f03d.js"
+    "static/js/main.411a8f44.js"
   ]
 }
