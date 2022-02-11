@@ -4,7 +4,7 @@ import headerphoto from "../../assets/headerphoto1.png"
 
 export default function Projects() {
   return (
-<div>
+<div class="about">
       <h1>About</h1>
 
       <img src={headerphoto} width="80%" ></img>
