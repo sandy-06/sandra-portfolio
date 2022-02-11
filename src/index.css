@@ -17,3 +17,27 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.body{
+  margin: 20px;
+
+}
+
+.para{
+  margin: 100px;
+  margin-right:500px;
+
+}
+.contact {
+  text-align: center;
+  margin-top: 100px;
+  background-image: url("../src/assets/background.png");
+  background-color: azure;
+  background-size: cover;
+}
+.home {
+  text-align: center;
+}
+.image {
+  border-width: 2px;
+  border-color: darkblue;
+}
