@@ -1,4 +1,4 @@
-import resume from "../../assets/resume.jpg"
+import resume from "../../assets/sresume.jpg"
 
 export default function Projects() {
     return (
