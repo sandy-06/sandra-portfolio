@@ -42,5 +42,20 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 This is a React design so you must have React installed on your computer along with bootstrap to run the program.
 
 ## Usage
-![alt text]()
+![alt text](/src/assets/Screenshothomepage.png )
+![alt text](/src/assets/Screenshotprojects.png)
+
+## Credits
+This project was built by Sandra Sanders
+
+## License
+no license
+
+## Contact
+
+You can reach me for questions at sandy-sanders@msn.com
+https://github.com/sandy-06/sandra-portfolio
+https://sandy-06.github.io/sandra-portfolio/
+
+
 
